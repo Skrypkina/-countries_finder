@@ -54,5 +54,6 @@
     "handlebars": "^4.7.3",
     "lodash.debounce": "^4.0.8",
     "pnotify": "^5.1.2"
-  }
+  },
+  "homepage": "https://skrypkina.github.io/countries_finder/"
 }
