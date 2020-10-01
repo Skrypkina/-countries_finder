@@ -155,7 +155,9 @@ section {
 .flag-img {
   width: calc((100%) / 2);
 }
-
+.flag-img {
+  align-self: flex-start;
+}
 .par-span {
   font-weight: 700;
   color: #3a6a6b;
